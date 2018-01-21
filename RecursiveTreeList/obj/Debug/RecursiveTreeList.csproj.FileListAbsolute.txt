@@ -1,0 +1,4 @@
+C:\Development\Sandbox\RecursiveTreeList\RecursiveTreeList\bin\RecursiveTreeList.dll
+C:\Development\Sandbox\RecursiveTreeList\RecursiveTreeList\bin\RecursiveTreeList.pdb
+C:\Development\Sandbox\RecursiveTreeList\RecursiveTreeList\obj\Debug\RecursiveTreeList.dll
+C:\Development\Sandbox\RecursiveTreeList\RecursiveTreeList\obj\Debug\RecursiveTreeList.pdb
